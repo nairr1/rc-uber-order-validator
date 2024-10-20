@@ -1,0 +1,14 @@
+# Ignore environment variable file
+.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore log files
+*.log
+
+# Ignore local files
+*.json
+*.csv
